@@ -6,11 +6,11 @@ li:nth-child(odd){
     color: #000;
     background-color: #BEEEEF;
 }
-li:nth-child(10){
-    white-space: 50px;
+li:nth-child(10n){
+    margin-bottom: 50px;
 }
-li:last-child:after{
-    white-space: 0px;
+li:last-child{
+    margin-bottom: inherit;
 }
 
 img{
