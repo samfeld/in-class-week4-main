@@ -1,1 +1,2 @@
-# in-class-week4-main
+# in-class-css-week4
+Starter code for in-class exercise for Winter 2022
