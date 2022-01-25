@@ -19,6 +19,6 @@ img{
     display: inline;
 
 }
-img:hover,:focus{
+img:hover,a:focus{
     box-shadow: 10px 10px #376F70;
 }
