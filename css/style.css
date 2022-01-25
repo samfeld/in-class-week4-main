@@ -1,0 +1,14 @@
+li:nth-child(even){
+    color: black;
+    background-color: #376F70;
+}
+li:nth-child(odd){
+    color: #000;
+    background-color: #BEEEEF;
+}
+li:nth-child(10){
+    white-space: 50px;
+}
+li:last-child:after{
+    margin: none;
+}
