@@ -10,5 +10,15 @@ li:nth-child(10){
     white-space: 50px;
 }
 li:last-child:after{
-    margin: none;
+    white-space: 0px;
+}
+
+img{
+    border: solid #000;
+    margin: 10px;
+    display: inline;
+
+}
+img:hover{
+    box-shadow: #376F70;
 }
