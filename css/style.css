@@ -14,7 +14,7 @@ li:last-child:after{
 }
 
 img{
-    border: solid #000;
+    border: 5px solid #000;
     margin: 10px;
     display: inline;
 
