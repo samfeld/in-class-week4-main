@@ -19,6 +19,6 @@ img{
     display: inline;
 
 }
-img:hover{
+img:hover,:focus{
     box-shadow: #376F70;
 }
